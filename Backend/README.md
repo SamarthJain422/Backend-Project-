@@ -1,1 +1,0 @@
-This is our individual project to hands on experinece of backend (node js , express js , API and all)
